@@ -1,6 +1,6 @@
 
-SISTEMAS 22 B
-Claudia Yamilet Martinez Ramirez
+SISTEMAS 22 B <br>
+Claudia Yamilet Martinez Ramirez<br>
 Renan Arquimides Lovos Pichinte
 
 
